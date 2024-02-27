@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "9201",
+      "cityName": "Braganca",
+      "country": "",
+      "emoji": "🇵🇹",
+      "date": "2024-02-14T09:21:44.089Z",
+      "notes": "",
+      "position": {
+        "lat": "41.80407814427237",
+        "lng": "-6.591796875000001"
+      }
+    },
+    {
+      "id": "e111",
+      "cityName": "Celadas",
+      "country": "",
+      "emoji": "🇪🇸",
+      "date": "2024-02-14T10:26:46.283Z",
+      "notes": "",
+      "position": {
+        "lat": "40.51379915504413",
+        "lng": "-1.1865234375000002"
+      }
+    }
+  ]
+}
